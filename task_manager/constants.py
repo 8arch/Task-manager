@@ -21,8 +21,8 @@ ERROR_TASK = "Нет добавленых задач на этот день не
 ERROR_VALID = "Не корректный ввод"
 
 # -- Info --
-TEXT_SUCCESS_ADD = "Успешно добавлено"
-TEXT_SKIPPED_ADD = "Такая задача уже существует"
+TEXT_SUCCESS_ADD = "Успешно"
+TEXT_SKIPPED_ADD = "Не удалось"
 
 TEXT_SUCCESS_REMOVE = "Успешно удалено"
 TEXT_FAILED_REMOVE = "Не найдены такие задачи"
